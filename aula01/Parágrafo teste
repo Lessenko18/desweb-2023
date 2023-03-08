@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="pt-br“>
+    <head>
+        <title>Documento HTML mínimo</title>
+        <meta charset="utf-8">
+    </head>
+    <body>
+
+        <!-- isso é um comentário em HTML-->
+	  <h1> Atividade Web <h1/>
+	  <h2><b> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum pretium laoreet massa eu porta. Nulla lorem tellus, suscipit a nunc eget, pulvinar tristique nibh. Aliquam in quam suscipit ante ornare aliquam sit amet at dui. Aliquam vitae urna ac odio varius molestie. Aenean enim turpis, aliquam vitae pharetra eu, pellentesque eget dui. Sed rhoncus nulla odio, quis fringilla mauris convallis eu. Vestibulum tempor quam nisi, eget gravida ante pharetra eget. Nulla auctor mollis velit, mollis faucibus sapien euismod in. Suspendisse rhoncus vel elit et faucibus. Morbi vitae ornare nunc. In in velit in tellus ornare accumsan ac tincidunt felis.<b/> <p2/>
+  	  <h3> Cabeçalho nível 3 <h3/>
+	  <h4> Cabeçalho nível 4 <h4/>
+	  <p> Um texto em negrito em <b>negrito<b/> </p>
+	  
+
+    </body>
+</html>
