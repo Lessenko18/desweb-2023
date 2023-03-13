@@ -4,6 +4,10 @@
         <title>Documento HTML mínimo</title>
         <meta charset="utf-8">
     </head>
+ 	
+	<h1>Lista HTML</h1>
+	<h1> ______________________________________</h1>
+<h2>Lista não ordenada</h2>
     <body>
 <ul>
     <li>Carro</li>
@@ -11,4 +15,38 @@
     <li>Países</li>
     <li>Frutas</li>
 </ul>
+    <h3> Lista Ordenada</h3>    
+<ol reversed>
+    <li>Ayrton Senna</li>
+    <li>Juan Manuel Fangio</li>
+    <li>Michael Schumacher</li>
+    <li>Alain Prost</li>
+    <li>Lewis Hamilton</li>
+    </ol>
+      <ul>
+        <li>Cores 
+          <ul>
+                 <li>Vermelho</li>
+                 <li>Azul</li>
+		     <li>Verde</li>
+		        <ul>
+		        <li>Verdinho</li>
+			  </ul>
+                  </ul>
+  </li>
+   <li>Carros
+          <ul>
+                 <li>Ferrari</li>
+                 <li>Tesla</li>
+     </ul>
+   </li>
+  </ul>
+
+<dl>
+    <dt>Café Latte</dt>
+    <dd> Café com leite</dd>
+    <dt>Cappuccino Italiano</dt>
+    <dd> 1/3 café, leite  e de espuma de leite</dd>
+</dl>
 </body>
+
